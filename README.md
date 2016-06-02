@@ -4,7 +4,7 @@ The lectures as run for the summer course 2016 of ASTR2600 Computational Techniq
 This means, that with the next instructor this folder could change.
 We also might keep an archived copy of this folder, for reference.
 
-# License
+## License
 
 Copyright (c) 2016, ASTR 2600 course instructors
 
